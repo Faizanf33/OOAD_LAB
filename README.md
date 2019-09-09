@@ -1,4 +1,4 @@
-# OOAD_LAB (Object Oriented Analysis and Design)
+# OOAD LAB *(Object Oriented Analysis and Design)*
 
 - This repository will include all Tasks and Assignments for OOAD LAB.
 - This will only include .java files for each program.
